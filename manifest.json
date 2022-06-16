@@ -1,0 +1,24 @@
+{
+    "name": "Finale",
+    "short_name": "Final",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#fdfdfd",
+    "theme_color": "#db4938",
+    "orientation": "portrait-primary",
+    "icons": [
+      {
+        "src": "Pic/Vlajky/Liberia",
+        "type": "image/png", "sizes": "400x200"
+      },
+      {
+        "src": "Pic/Vlajky/Slovensko",
+        "type": "image/png", "sizes": "400x200"
+      },
+      {
+        "src": "Pic/Vlajky/USA",
+        "type": "image/png", "sizes": "400x200"
+      }
+    ],
+    "splash_pages": null
+  }
